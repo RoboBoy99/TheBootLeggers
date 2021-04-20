@@ -1,0 +1,8 @@
+main: me.RoboBoy99.Profiler.Profiler
+name: Profiler
+version: '1.0'
+author: RoboBoy99
+api-version: 1.16
+commands:
+  Profile:
+  Ticket:
